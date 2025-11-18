@@ -65,7 +65,7 @@ Currently exploring new technologies and improving my full-stack development ski
 </p>
 
 <p align="left">
-  <a href="https://github.com/kamrul397/smart-deals-client">
+  <a href="https://github.com/kamrul397/heo-app-a8">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamrul397&repo=smart-deals-client" />
   </a>
 </p>
