@@ -11,7 +11,7 @@
 ### 🧑‍💻 About Me
 
 I am a passionate learner who enjoys building modern web applications.  
-Currently exploring new technologies and improving my full-stack development skills with MERN Stack.
+Currently exploring new technologies and improving my full-stack development skills with the MERN Stack.
 
 ### 🔍 Current Activities
 
@@ -33,11 +33,8 @@ Currently exploring new technologies and improving my full-stack development ski
 ## 🔗 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/kamrul-islam-712b7416b/
-  
-">LinkedIn</a> •
-  <a href="kamrulislam25262800@gmail.com">Email</a> •
-  
+  <a href="https://www.linkedin.com/in/kamrul-islam-712b7416b/">LinkedIn</a> •
+  <a href="mailto:kamrulislam25262800@gmail.com">Email</a> •
   <a href="https://github.com/kamrul397">GitHub</a>
 </p>
 
@@ -46,23 +43,31 @@ Currently exploring new technologies and improving my full-stack development ski
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrul397" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kamrul397&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul397&layout=compact" />
 </p>
 
 ---
 
 ## 📌 Pinned Repositories
 
-[![Repo 1](https://github.com/kamrul397/m10-payBill-server.git)](REPO1_LINK)
+<p align="left">
+  <a href="https://github.com/kamrul397/m10-payBill-server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamrul397&repo=m10-payBill-server" />
+  </a>
+</p>
 
-[![Repo 2](https://github.com/kamrul397/smart-deals-client.git)](REPO2_LINK)
+<p align="left">
+  <a href="https://github.com/kamrul397/smart-deals-client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamrul397&repo=smart-deals-client" />
+  </a>
+</p>
 
 ---
