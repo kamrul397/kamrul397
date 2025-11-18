@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="BANNER_IMAGE_URL" alt="Banner" />
+  <img src="ChatGPT Image Nov 18, 2025, 11_41_26 PM.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi, I'm KAMRUL ISLAM 👋</h1>
