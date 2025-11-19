@@ -33,7 +33,7 @@ Currently exploring new technologies and improving my full-stack development ski
 ## 🔗 Connect With Me
 
 <p>
-  <a href="https://https://www.linkedin.com/in/kamrul397/">LinkedIn</a> •
+  <a href="https://https://linkedin.com/in/kamrul397/">LinkedIn</a> •
   <a href="mailto:kamrulislam25262800@gmail.com">Email</a> •
   <a href="https://github.com/kamrul397">GitHub</a>
 </p>
