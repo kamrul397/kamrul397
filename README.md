@@ -3,7 +3,7 @@
 </p>
 <!-- Banner -->
 <p align="center">
-  <img src="banner" alt="Banner" />
+  <img src="banner.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kamrul Islam</h1>
@@ -13,7 +13,7 @@ Full-Stack MERN & Next.js Developer
 </h3>
 
 <p align="center">
-I enjoy building modern, responsive, and scalable web applications using React, Next.js, Node.js, Express.js, and MongoDB. I love solving real-world problems through clean UI, secure authentication, and efficient backend architecture.
+I enjoy building modern, responsive, and scalable web applications using React, Next.js, Node.js, Express.js, and MongoDB. I love solving real-world problems through clean UI, secure authentication, and efficient backend architecture..
 </p>
 
 ---
@@ -136,12 +136,9 @@ https://github.com/kamrul397/CareFlow
 
 Replace your old repositories with these:
 
-- ⭐ TechNova Store
-- ⭐ ClubSphere
-- ⭐ Care.xyz
-- ⭐ Portfolio
-
-GitHub lets you pin these from your profile page (**Customize your pins**).
+- ⭐ [TechNova Store](https://github.com/kamrul397/revenio-store.git)
+- ⭐ [ClubSphere](https://github.com/kamrul397/ClubSphere_Frontend.git)
+- ⭐ [Portfolio](https://github.com/kamrul397/my_portfolio.git)
 
 ---
 
