@@ -1,73 +1,152 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kamrul397&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 <!-- Banner -->
 <p align="center">
-  <img src="ChatGPT Image Nov 18, 2025, 11_41_26 PM.png" alt="Banner" />
+  <img src="banner" alt="Banner" />
 </p>
 
-<h1 align="center">Hi, I'm KAMRUL ISLAM 👋</h1>
-<h3 align="center">MERN Stack Learner</h3>
+<h1 align="center">Hi 👋, I'm Kamrul Islam</h1>
 
----
+<h3 align="center">
+Full-Stack MERN & Next.js Developer
+</h3>
 
-### 🧑‍💻 About Me
-
-I am a passionate learner who enjoys building modern web applications.  
-Currently exploring new technologies and improving my full-stack development skills with the MERN Stack.
-
-### 🔍 Current Activities
-
-- 🌱 I’m learning **Next.js**
-- 🚧 Working on **a Tourism Website**
-- 📚 Solving problems with **JavaScript**
-- 🧪 Experimenting with **API integrations**
-
----
-
-## 🛠️ Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,git,github,vscode,tailwind" />
+<p align="center">
+I enjoy building modern, responsive, and scalable web applications using React, Next.js, Node.js, Express.js, and MongoDB. I love solving real-world problems through clean UI, secure authentication, and efficient backend architecture.
 </p>
 
 ---
 
-## 🔗 Connect With Me
+# 🚀 Portfolio
+
+🌐 Portfolio  
+https://my-portfolio-theta-rose-11.vercel.app/
+
+📫 Email  
+kamrulislam25262800@gmail.com
+
+💼 LinkedIn  
+https://www.linkedin.com/in/kamrul397/
+
+---
+
+# 👨‍💻 About Me
+
+- 💻 Full-Stack MERN & Next.js Developer
+- 🚀 Passionate about building production-ready web applications
+- 🌱 Currently learning **TypeScript** and exploring advanced **Next.js** concepts
+- 📚 Continuously improving my Data Structures & JavaScript skills
+- 🎯 Goal: Build scalable and user-friendly web applications
+
+---
+
+# 🔨 Tech Stack
+
+### Frontend
 
 <p>
-  <a href="https://www.linkedin.com/in/kamrul397/">LinkedIn</a> •
-  <a href="mailto:kamrulislam25262800@gmail.com">Email</a> •
-  <a href="https://github.com/kamrul397">GitHub</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🌟 Featured Projects
+
+## 🚀 TechNova Store
+
+Modern full-stack e-commerce platform built with Next.js.
+
+**Tech**
+
+- Next.js
+- Express.js
+- MongoDB
+- Firebase Authentication
+- Cloudinary
+- Tailwind CSS
+
+🔗 Live  
+https://revenio-client.vercel.app
+
+🔗 Repository  
+https://github.com/kamrul397/revenio-store
+
+---
+
+## 🚀 ClubSphere
+
+Full-stack club management platform.
+
+🔗 Live  
+https://clubspere-firebase.web.app
+
+🔗 Repository  
+https://github.com/kamrul397/ClubSphere_Frontend
+
+---
+
+## 🚀 Care.xyz
+
+Home Care Services Platform built with Next.js.
+
+🔗 Live  
+https://care-flow-lyart.vercel.app/
+
+🔗 Repository  
+https://github.com/kamrul397/CareFlow
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrul397" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=kamrul397&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamrul397&show_icons=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrul397&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul397&layout=compact" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul397&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📌 Pinned Repositories
+# 📌 Pinned Repositories
 
-<p align="left">
-  <a href="https://github.com/kamrul397/m10-payBill-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamrul397&repo=m10-payBill-server" />
-  </a>
-</p>
+Replace your old repositories with these:
 
-<p align="left">
-  <a href="https://github.com/kamrul397/heo-app-a8">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamrul397&repo=smart-deals-client" />
-  </a>
-</p>
+- ⭐ TechNova Store
+- ⭐ ClubSphere
+- ⭐ Care.xyz
+- ⭐ Portfolio
+
+GitHub lets you pin these from your profile page (**Customize your pins**).
 
 ---
+
+<p align="center">
+
+Thanks for visiting my profile ❤️
+
+</p>
