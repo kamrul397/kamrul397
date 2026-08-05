@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kamrul397&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+
 <!-- Banner -->
 <p align="center">
   <img src="banner.png" alt="Banner" />
@@ -13,7 +14,7 @@ Full-Stack MERN & Next.js Developer
 </h3>
 
 <p align="center">
-I enjoy building modern, responsive, and scalable web applications using React, Next.js, Node.js, Express.js, and MongoDB. I love solving real-world problems through clean UI, secure authentication, and efficient backend architecture..
+I enjoy building modern, responsive, and scalable web applications using React, Next.js, Node.js, Express.js, and MongoDB. I love solving real-world problems through clean UI, secure authentication, and efficient backend architecture.
 </p>
 
 ---
@@ -64,6 +65,29 @@ https://www.linkedin.com/in/kamrul397/
 ---
 
 # 🌟 Featured Projects
+
+## 🚀 CareerConnect
+
+Full-Stack Job Search & Recruitment Platform built with MERN & Next.js 16. Features role-based access control (RBAC), TanStack Query v5 state management, Cloudinary resume uploads, and custom MongoDB aggregation pipelines.
+
+**Tech**
+
+- Next.js 16 (App Router)
+- React 19
+- Node.js & Express.js
+- MongoDB Atlas
+- TanStack Query v5
+- Firebase Auth & JWT
+- Cloudinary API
+- Tailwind CSS
+
+🔗 Live  
+https://career-connect-iota-pied.vercel.app
+
+🔗 Repository  
+https://github.com/kamrul397/careerConnect
+
+---
 
 ## 🚀 TechNova Store
 
@@ -134,8 +158,7 @@ https://github.com/kamrul397/CareFlow
 
 # 📌 Pinned Repositories
 
-Replace your old repositories with these:
-
+- ⭐ [CareerConnect](https://github.com/kamrul397/careerConnect)
 - ⭐ [TechNova Store](https://github.com/kamrul397/revenio-store.git)
 - ⭐ [ClubSphere](https://github.com/kamrul397/ClubSphere_Frontend.git)
 - ⭐ [Portfolio](https://github.com/kamrul397/my_portfolio.git)
