@@ -10,11 +10,15 @@
 <h1 align="center">Hi 👋, I'm Kamrul Islam</h1>
 
 <h3 align="center">
-Full-Stack TypeScript, Next.js & MERN Developer
+Junior MERN Stack Developer
 </h3>
 
 <p align="center">
-I engineer modern, responsive, and production-grade full-stack web applications using TypeScript, Next.js 16 (App Router), React 19, Node.js, Express.js, and MongoDB. Passionate about clean architecture, strict type safety, secure Stripe payment integrations, and zero-delay UI state caching.
+  <strong>🚀 Open to Intern / Junior Web Developer Roles</strong>
+</p>
+
+<p align="center">
+I build responsive, modern, and user-friendly web applications using React, Next.js, TypeScript, Node.js, Express.js, and MongoDB. Passionate about clean code, secure authentication, Stripe payment integrations, and reliable full-stack architectures.
 </p>
 
 ---
@@ -30,11 +34,12 @@ I engineer modern, responsive, and production-grade full-stack web applications 
 
 # 👨‍💻 About Me
 
-- 💻 **Full-Stack Developer** specializing in **TypeScript**, **Next.js 16 (App Router)**, **React 19**, **Node.js**, and **MongoDB**
-- 💳 Built **FitPass** – a production-grade SaaS gym subscription platform featuring Stripe Checkout, smart plan proration, and cryptographic webhook verification
+- 💻 **Junior MERN Stack Developer**
+- 🌟 **Open to Intern / Junior Web Developer Roles**
+- 💳 Built **FitPass** – a full-stack SaaS gym subscription platform featuring Stripe Checkout, smart plan proration, and cryptographic webhook verification
 - 🔐 Strong focus on **Role-Based Access Control (RBAC)** and secure **HTTP-Only JWT Cookie** authentication
 - ⚡ Experienced with **TanStack Query v5** for client-side caching, background revalidation, and optimistic mutations
-- 🎯 Goal: Building scalable, secure, and user-centric web applications with end-to-end type safety
+- 🎯 Goal: Continuously learn, write clean code, and contribute effectively to modern web development teams
 
 ---
 
