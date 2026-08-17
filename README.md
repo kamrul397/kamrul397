@@ -10,67 +10,85 @@
 <h1 align="center">Hi 👋, I'm Kamrul Islam</h1>
 
 <h3 align="center">
-Full-Stack MERN & Next.js Developer
+Full-Stack TypeScript, Next.js & MERN Developer
 </h3>
 
 <p align="center">
-I enjoy building modern, responsive, and scalable web applications using React, Next.js, Node.js, Express.js, and MongoDB. I love solving real-world problems through clean UI, secure authentication, and efficient backend architecture.
+I engineer modern, responsive, and production-grade full-stack web applications using TypeScript, Next.js 16 (App Router), React 19, Node.js, Express.js, and MongoDB. Passionate about clean architecture, strict type safety, secure Stripe payment integrations, and zero-delay UI state caching.
 </p>
 
 ---
 
-# 🚀 Portfolio
+# 🚀 Connect With Me
 
-🌐 Portfolio  
-https://my-portfolio-theta-rose-11.vercel.app/
-
-📫 Email  
-kamrulislam25262800@gmail.com
-
-💼 LinkedIn  
-https://www.linkedin.com/in/kamrul397/
+🌐 **Portfolio:** https://my-portfolio-theta-rose-11.vercel.app/  
+📫 **Email:** kamrulislam25262800@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/kamrul397/  
+💬 **WhatsApp:** https://wa.me/8801894565173  
 
 ---
 
 # 👨‍💻 About Me
 
-- 💻 Full-Stack MERN & Next.js Developer
-- 🚀 Passionate about building production-ready web applications
-- 🌱 Currently learning **TypeScript** and exploring advanced **Next.js** concepts
-- 📚 Continuously improving my Data Structures & JavaScript skills
-- 🎯 Goal: Build scalable and user-friendly web applications
+- 💻 **Full-Stack Developer** specializing in **TypeScript**, **Next.js 16 (App Router)**, **React 19**, **Node.js**, and **MongoDB**
+- 💳 Built **FitPass** – a production-grade SaaS gym subscription platform featuring Stripe Checkout, smart plan proration, and cryptographic webhook verification
+- 🔐 Strong focus on **Role-Based Access Control (RBAC)** and secure **HTTP-Only JWT Cookie** authentication
+- ⚡ Experienced with **TanStack Query v5** for client-side caching, background revalidation, and optimistic mutations
+- 🎯 Goal: Building scalable, secure, and user-centric web applications with end-to-end type safety
 
 ---
 
 # 🔨 Tech Stack
 
-### Frontend
+### Languages & Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind" />
 </p>
 
-### Backend
+### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
-### Tools
+### Tools & Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
 </p>
 
 ---
 
 # 🌟 Featured Projects
 
-## 🚀 CareerConnect
+## 🚀 FitPass – Full-Stack SaaS Gym Subscription Platform
+
+Production-grade full-stack SaaS gym membership subscription platform engineered with strict TypeScript. Features complete Stripe Checkout subscriptions, webhook raw-body signature verification, smart plan proration calculation, hybrid Firebase & HTTP-Only JWT authentication, and an Admin Control Center for real-time analytics.
+
+**Tech Stack**
+
+- TypeScript
+- Next.js 16 (App Router)
+- React 19
+- Node.js & Express.js (v5)
+- MongoDB Atlas & Mongoose
+- Stripe API (Checkout, Webhooks & Proration)
+- TanStack Query v5
+- Zod & React Hook Form
+- Tailwind CSS v4 & Framer Motion
+
+🔗 **Live Demo:** https://fit-pass-omega.vercel.app  
+🔗 **Backend API:** https://fitpass-hx0c.onrender.com  
+🔗 **Repository:** https://github.com/kamrul397/fitPass  
+
+---
+
+## 🚀 CareerConnect – Full-Stack Job Search & Recruitment Portal
 
 Full-Stack Job Search & Recruitment Platform built with MERN & Next.js 16. Features role-based access control (RBAC), TanStack Query v5 state management, Cloudinary resume uploads, and custom MongoDB aggregation pipelines.
 
-**Tech**
+**Tech Stack**
 
 - Next.js 16 (App Router)
 - React 19
@@ -81,92 +99,72 @@ Full-Stack Job Search & Recruitment Platform built with MERN & Next.js 16. Featu
 - Cloudinary API
 - Tailwind CSS
 
-🔗 Live  
-https://career-connect-iota-pied.vercel.app
-
-🔗 Repository  
-https://github.com/kamrul397/careerConnect
+🔗 **Live Demo:** https://career-connect-iota-pied.vercel.app  
+🔗 **Repository:** https://github.com/kamrul397/careerConnect  
 
 ---
 
-## 🚀 TechNova Store
+## 🚀 TechNova Store – Modern Full-Stack E-Commerce Platform
 
-Modern full-stack e-commerce platform built with Next.js.
+Modern full-stack e-commerce platform built with Next.js and Express.js featuring real-time product search, filtering, and Cloudinary media management.
 
-**Tech**
+**Tech Stack**
 
 - Next.js
 - Express.js
 - MongoDB
 - Firebase Authentication
 - Cloudinary
+- Tailwind CSS & DaisyUI
+
+🔗 **Live Demo:** https://revenio-client.vercel.app  
+🔗 **Repository:** https://github.com/kamrul397/revenio-store  
+
+---
+
+## 🚀 ClubSphere – Full-Stack Club Management Platform
+
+Full-stack MERN web application for discovering, joining, and managing local clubs and community events.
+
+**Tech Stack**
+
+- React
+- Node.js & Express.js
+- MongoDB
+- TanStack Query
 - Tailwind CSS
 
-🔗 Live  
-https://revenio-client.vercel.app
-
-🔗 Repository  
-https://github.com/kamrul397/revenio-store
-
----
-
-## 🚀 ClubSphere
-
-Full-stack club management platform.
-
-🔗 Live  
-https://clubspere-firebase.web.app
-
-🔗 Repository  
-https://github.com/kamrul397/ClubSphere_Frontend
-
----
-
-## 🚀 Care.xyz
-
-Home Care Services Platform built with Next.js.
-
-🔗 Live  
-https://care-flow-lyart.vercel.app/
-
-🔗 Repository  
-https://github.com/kamrul397/CareFlow
+🔗 **Live Demo:** https://clubspere-firebase.web.app  
+🔗 **Repository:** https://github.com/kamrul397/ClubSphere_Frontend  
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kamrul397&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=kamrul397&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrul397&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrul397&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul397&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrul397&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 # 📌 Pinned Repositories
 
+- ⭐ [FitPass](https://github.com/kamrul397/fitPass)
 - ⭐ [CareerConnect](https://github.com/kamrul397/careerConnect)
-- ⭐ [TechNova Store](https://github.com/kamrul397/revenio-store.git)
-- ⭐ [ClubSphere](https://github.com/kamrul397/ClubSphere_Frontend.git)
-- ⭐ [Portfolio](https://github.com/kamrul397/my_portfolio.git)
+- ⭐ [TechNova Store](https://github.com/kamrul397/revenio-store)
+- ⭐ [ClubSphere](https://github.com/kamrul397/ClubSphere_Frontend)
+- ⭐ [Portfolio](https://github.com/kamrul397/my_portfolio)
 
 ---
 
 <p align="center">
-
-Thanks for visiting my profile ❤️
-
+  Thanks for visiting my profile ❤️
 </p>
