@@ -10,15 +10,15 @@
 <h1 align="center">Hi 👋, I'm Kamrul Islam</h1>
 
 <h3 align="center">
-Junior MERN Stack Developer
+Junior Full-Stack Developer | Next.js 16 • React 19 • TypeScript • PostgreSQL • Prisma • Node.js • MongoDB
 </h3>
 
 <p align="center">
-  <strong>🚀 Open to Intern / Junior Web Developer Roles</strong>
+  <strong>🚀 Web Developer Intern at GOBAADI • Open to Full-Stack / Next.js / Frontend Roles</strong>
 </p>
 
 <p align="center">
-I build responsive, modern, and user-friendly web applications using React, Next.js, TypeScript, Node.js, Express.js, and MongoDB. Passionate about clean code, secure authentication, Stripe payment integrations, and reliable full-stack architectures.
+I engineer responsive, accessible, and high-performance web applications using Next.js 16, React 19, TypeScript, PostgreSQL, Prisma ORM, Node.js, Express.js, and MongoDB. Passionate about continuous learning, clean architecture, mathematical fractional indexing, secure authentication, and building seamless user experiences.
 </p>
 
 ---
@@ -34,12 +34,15 @@ I build responsive, modern, and user-friendly web applications using React, Next
 
 # 👨‍💻 About Me
 
-- 💻 **Junior MERN Stack Developer**
-- 🌟 **Open to Intern / Junior Web Developer Roles**
-- 💳 Built **FitPass** – a full-stack SaaS gym subscription platform featuring Stripe Checkout, smart plan proration, and cryptographic webhook verification
+- 💻 **Junior Full-Stack Developer** & Web Developer Intern at **GOBAADI**
+- 📚 Passionate about **continuous learning** and rapidly adapting to modern engineering tools
+- 📋 Built **Mini Kanban Board** – a collaborative workflow platform featuring PostgreSQL, Prisma ORM, continuous mathematical fractional indexing for 0ms drag-and-drop reordering, 3-tier RBAC, and mobile accordion stacks
+- 💼 Built **CareerConnect** – a full-stack job recruitment portal with Next.js 16, faceted search via MongoDB aggregation pipelines, and Cloudinary PDF processing
+- 🌟 Built **ClubSphere** – a university extracurricular hub featuring Stripe payments, club subscriptions, and dynamic event management
+- 🛠️ Deep experience modeling relational schemas with **PostgreSQL & Prisma ORM** alongside NoSQL **MongoDB Atlas & Mongoose**
+- ⚡ Skilled in **TanStack Query v5** for optimistic UI updates, background caching, and zero-latency state synchronization
 - 🔐 Strong focus on **Role-Based Access Control (RBAC)** and secure **HTTP-Only JWT Cookie** authentication
-- ⚡ Experienced with **TanStack Query v5** for client-side caching, background revalidation, and optimistic mutations
-- 🎯 Goal: Continuously learn, write clean code, and contribute effectively to modern web development teams
+- 🎯 Goal: Continuously learn, write type-safe code, and build impactful digital products with collaborative teams
 
 ---
 
@@ -51,30 +54,83 @@ I build responsive, modern, and user-friendly web applications using React, Next
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind" />
 </p>
 
-### Backend & Database
+### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb,firebase" />
 </p>
 
-### Tools & Deployment
+### DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,postman" />
 </p>
 
 ---
 
 # 🌟 Featured Projects
 
-## 🚀 FitPass – Full-Stack SaaS Gym Subscription Platform
+## 🚀 Mini Kanban Board – Full-Stack Collaborative Workflow Platform
 
-Production-grade full-stack SaaS gym membership subscription platform engineered with strict TypeScript. Features complete Stripe Checkout subscriptions, webhook raw-body signature verification, smart plan proration calculation, hybrid Firebase & HTTP-Only JWT authentication, and an Admin Control Center for real-time analytics.
+Production-grade collaborative Kanban board and workflow platform. Engineered with normalized PostgreSQL models via Prisma ORM, continuous mathematical fractional indexing for 0ms drag-and-drop task positioning without mass database updates, granular 3-tier Role-Based Access Control (Board Owner, Team Editor, Stakeholder Viewer), and mobile-responsive collapsible accordion stacks. Containerized with Docker and Docker Compose.
 
 **Tech Stack**
+- Next.js 16 (App Router) & React 19
+- TypeScript (Strict Mode)
+- PostgreSQL & Prisma ORM
+- Node.js & Express.js
+- TanStack Query (React Query)
+- Docker & Docker Compose
+- Tailwind CSS v4
 
-- TypeScript
-- Next.js 16 (App Router)
+🔗 **Live Demo:** https://mini-kanban-board-rho.vercel.app  
+🔗 **Repository:** https://github.com/kamrul397/mini-kanban-board  
+
+---
+
+## 🚀 CareerConnect – Full-Stack Job Search & Recruitment Portal
+
+Full-stack job search and recruitment portal connecting candidates, recruiters, and administrators. Features role-protected workspaces, faceted job filtering powered by MongoDB multi-stage aggregation pipelines, automated Cloudinary PDF resume parsing, and TanStack Query v5 background caching.
+
+**Tech Stack**
+- Next.js 16 (App Router) & React 19
+- TypeScript & JavaScript (ES6+)
+- Node.js & Express.js
+- MongoDB Atlas & Mongoose
+- TanStack Query v5
+- Firebase Auth & HTTP-Only JWT
+- Cloudinary API
+- Tailwind CSS
+
+🔗 **Live Demo:** https://career-connect-iota-pied.vercel.app  
+🔗 **Repository:** https://github.com/kamrul397/careerConnect  
+
+---
+
+## 🚀 ClubSphere – Full-Stack Extracurricular & Event Platform
+
+Dynamic university community hub facilitating student club exploration, club membership management, and secure event ticketing with integrated Stripe checkout and webhook fulfillment.
+
+**Tech Stack**
+- React 19
+- Node.js & Express.js
+- MongoDB Atlas
+- Stripe API (Checkout & Webhooks)
+- TanStack Query & React Hook Form
+- Firebase Auth & JWT
+- Tailwind CSS
+
+🔗 **Live Demo:** https://clubspere-firebase.web.app  
+🔗 **Repository:** https://github.com/kamrul397/ClubSphere_Frontend  
+
+---
+
+## 🚀 FitPass – Full-Stack SaaS Gym Subscription Platform
+
+Full-stack SaaS gym membership subscription platform engineered with strict TypeScript. Features complete Stripe Checkout subscriptions, webhook raw-body signature verification, smart plan proration calculation, hybrid Firebase & HTTP-Only JWT authentication, and an Admin Control Center for real-time analytics.
+
+**Tech Stack**
+- TypeScript & Next.js 16 (App Router)
 - React 19
 - Node.js & Express.js (v5)
 - MongoDB Atlas & Mongoose
@@ -84,63 +140,7 @@ Production-grade full-stack SaaS gym membership subscription platform engineered
 - Tailwind CSS v4 & Framer Motion
 
 🔗 **Live Demo:** https://fit-pass-omega.vercel.app  
-🔗 **Backend API:** https://fitpass-hx0c.onrender.com  
 🔗 **Repository:** https://github.com/kamrul397/fitPass  
-
----
-
-## 🚀 CareerConnect – Full-Stack Job Search & Recruitment Portal
-
-Full-Stack Job Search & Recruitment Platform built with MERN & Next.js 16. Features role-based access control (RBAC), TanStack Query v5 state management, Cloudinary resume uploads, and custom MongoDB aggregation pipelines.
-
-**Tech Stack**
-
-- Next.js 16 (App Router)
-- React 19
-- Node.js & Express.js
-- MongoDB Atlas
-- TanStack Query v5
-- Firebase Auth & JWT
-- Cloudinary API
-- Tailwind CSS
-
-🔗 **Live Demo:** https://career-connect-iota-pied.vercel.app  
-🔗 **Repository:** https://github.com/kamrul397/careerConnect  
-
----
-
-## 🚀 TechNova Store – Modern Full-Stack E-Commerce Platform
-
-Modern full-stack e-commerce platform built with Next.js and Express.js featuring real-time product search, filtering, and Cloudinary media management.
-
-**Tech Stack**
-
-- Next.js
-- Express.js
-- MongoDB
-- Firebase Authentication
-- Cloudinary
-- Tailwind CSS & DaisyUI
-
-🔗 **Live Demo:** https://revenio-client.vercel.app  
-🔗 **Repository:** https://github.com/kamrul397/revenio-store  
-
----
-
-## 🚀 ClubSphere – Full-Stack Club Management Platform
-
-Full-stack MERN web application for discovering, joining, and managing local clubs and community events.
-
-**Tech Stack**
-
-- React
-- Node.js & Express.js
-- MongoDB
-- TanStack Query
-- Tailwind CSS
-
-🔗 **Live Demo:** https://clubspere-firebase.web.app  
-🔗 **Repository:** https://github.com/kamrul397/ClubSphere_Frontend  
 
 ---
 
@@ -162,11 +162,11 @@ Full-stack MERN web application for discovering, joining, and managing local clu
 
 # 📌 Pinned Repositories
 
-- ⭐ [FitPass](https://github.com/kamrul397/fitPass)
-- ⭐ [CareerConnect](https://github.com/kamrul397/careerConnect)
-- ⭐ [TechNova Store](https://github.com/kamrul397/revenio-store)
-- ⭐ [ClubSphere](https://github.com/kamrul397/ClubSphere_Frontend)
-- ⭐ [Portfolio](https://github.com/kamrul397/my_portfolio)
+- ⭐ [Mini Kanban Board](https://github.com/kamrul397/mini-kanban-board) — Collaborative Kanban Board with PostgreSQL, Prisma ORM & Fractional Indexing
+- ⭐ [CareerConnect](https://github.com/kamrul397/careerConnect) — Multi-Role Job Search & Recruitment Portal
+- ⭐ [ClubSphere](https://github.com/kamrul397/ClubSphere_Frontend) — Club Discovery & Event Ticketing Platform
+- ⭐ [FitPass](https://github.com/kamrul397/fitPass) — SaaS Gym Membership Platform with Stripe Subscriptions
+- ⭐ [Portfolio](https://github.com/kamrul397/kamrul-portfolio) — Interactive 3D Developer Portfolio
 
 ---
 
