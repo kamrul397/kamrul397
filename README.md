@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I'm Kamrul Islam</h1>
 
 <h3 align="center">
-Junior Full-Stack Developer | Next.js 16 • React 19 • TypeScript • PostgreSQL • Prisma • Node.js • MongoDB
+Junior Full-Stack Developer | Next.js 16 • React 19 • TypeScript • PostgreSQL • Prisma • Docker • Node.js • MongoDB
 </h3>
 
 <p align="center">
@@ -18,7 +18,7 @@ Junior Full-Stack Developer | Next.js 16 • React 19 • TypeScript • Postgre
 </p>
 
 <p align="center">
-I engineer responsive, accessible, and high-performance web applications using Next.js 16, React 19, TypeScript, PostgreSQL, Prisma ORM, Node.js, Express.js, and MongoDB. Passionate about continuous learning, clean architecture, mathematical fractional indexing, secure authentication, and building seamless user experiences.
+I engineer responsive, accessible, and high-performance web applications using Next.js 16, React 19, TypeScript, PostgreSQL, Prisma ORM, Docker, Node.js, Express.js, and MongoDB. Passionate about continuous learning, clean architecture, mathematical fractional indexing, secure authentication, and building seamless user experiences.
 </p>
 
 ---
@@ -41,6 +41,7 @@ I engineer responsive, accessible, and high-performance web applications using N
 - 💼 Built **CareerConnect** – a full-stack job recruitment portal with Next.js 16, faceted search via MongoDB aggregation pipelines, and Cloudinary PDF processing
 - 🌟 Built **ClubSphere** – a university extracurricular hub featuring Stripe payments, club subscriptions, and dynamic event management
 - 🛠️ Deep experience modeling relational schemas with **PostgreSQL & Prisma ORM** alongside NoSQL **MongoDB Atlas & Mongoose**
+- 🐳 Proficient in **Docker & Docker Compose** for containerizing full-stack multi-service applications
 - ⚡ Skilled in **TanStack Query v5** for optimistic UI updates, background caching, and zero-latency state synchronization
 - 🔐 Strong focus on **Role-Based Access Control (RBAC)** and secure **HTTP-Only JWT Cookie** authentication
 - 🎯 Goal: Continuously learn, write type-safe code, and build impactful digital products with collaborative teams
@@ -143,25 +144,6 @@ Dynamic university community hub facilitating student club exploration, club mem
 
 ---
 
-## 🚀 FitPass – Full-Stack SaaS Gym Subscription Platform
-
-Full-stack SaaS gym membership subscription platform engineered with strict TypeScript. Features complete Stripe Checkout subscriptions, webhook raw-body signature verification, smart plan proration calculation, hybrid Firebase & HTTP-Only JWT authentication, and an Admin Control Center for real-time analytics.
-
-**Tech Stack**
-- TypeScript & Next.js 16 (App Router)
-- React 19
-- Node.js & Express.js (v5)
-- MongoDB Atlas & Mongoose
-- Stripe API (Checkout, Webhooks & Proration)
-- TanStack Query v5
-- Zod & React Hook Form
-- Tailwind CSS v4 & Framer Motion
-
-🔗 **Live Demo:** https://fit-pass-omega.vercel.app  
-🔗 **Repository:** https://github.com/kamrul397/fitPass  
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
@@ -184,7 +166,6 @@ Full-stack SaaS gym membership subscription platform engineered with strict Type
 - ⭐ [Mini Kanban Board](https://github.com/kamrul397/mini-kanban-board) — Collaborative Kanban Board with PostgreSQL, Prisma ORM & Fractional Indexing
 - ⭐ [CareerConnect](https://github.com/kamrul397/careerConnect) — Multi-Role Job Search & Recruitment Portal
 - ⭐ [ClubSphere](https://github.com/kamrul397/ClubSphere_Frontend) — Club Discovery & Event Ticketing Platform
-- ⭐ [FitPass](https://github.com/kamrul397/fitPass) — SaaS Gym Membership Platform with Stripe Subscriptions
 - ⭐ [Portfolio](https://github.com/kamrul397/kamrul-portfolio) — Interactive 3D Developer Portfolio
 
 ---
