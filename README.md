@@ -36,6 +36,7 @@ I engineer responsive, accessible, and high-performance web applications using N
 
 - 💻 **Junior Full-Stack Developer** & Web Developer Intern at **GOBAADI**
 - 📚 Passionate about **continuous learning** and rapidly adapting to modern engineering tools
+- 🧾 Built **SmartReceipt AI** – a full-stack expense tracking platform with Next.js 16, Google Gemini Vision OCR, split-screen reconciliation, document guardrails, and PostgreSQL via Prisma ORM
 - 📋 Built **Mini Kanban Board** – a collaborative workflow platform featuring PostgreSQL, Prisma ORM, continuous mathematical fractional indexing for 0ms drag-and-drop reordering, 3-tier RBAC, and mobile accordion stacks
 - 💼 Built **CareerConnect** – a full-stack job recruitment portal with Next.js 16, faceted search via MongoDB aggregation pipelines, and Cloudinary PDF processing
 - 🌟 Built **ClubSphere** – a university extracurricular hub featuring Stripe payments, club subscriptions, and dynamic event management
@@ -69,6 +70,23 @@ I engineer responsive, accessible, and high-performance web applications using N
 ---
 
 # 🌟 Featured Projects
+
+## 🚀 SmartReceipt AI – Multimodal Financial Document Parser & Expense Tracker
+
+Full-stack AI-powered expense tracking and receipt auditing platform. Extracts store details, dates, taxes, and itemized line items from receipt images or PDFs using Google Gemini Vision. Features a split-screen review interface, non-receipt guardrails, instant PDF voucher downloads for guests, member dashboard with monthly spending charts, and 1-click CSV/PDF export.
+
+**Tech Stack**
+- Next.js 16 (App Router) & React 19
+- TypeScript (Strict Mode)
+- Google Gemini Flash API (Multimodal OCR)
+- PostgreSQL (Neon Serverless) & Prisma 7
+- Zod & Tailwind CSS v4
+- Custom JWT Authentication (HTTP-Only Cookie)
+
+🔗 **Live Demo:** https://smart-receipt-ai.vercel.app  
+🔗 **Repository:** https://github.com/kamrul397/smart-receipt-ai  
+
+---
 
 ## 🚀 Mini Kanban Board – Full-Stack Collaborative Workflow Platform
 
@@ -162,6 +180,7 @@ Full-stack SaaS gym membership subscription platform engineered with strict Type
 
 # 📌 Pinned Repositories
 
+- ⭐ [SmartReceipt AI](https://github.com/kamrul397/smart-receipt-ai) — Multimodal Expense Tracker & Receipt Parser with Gemini Vision, Prisma & PostgreSQL
 - ⭐ [Mini Kanban Board](https://github.com/kamrul397/mini-kanban-board) — Collaborative Kanban Board with PostgreSQL, Prisma ORM & Fractional Indexing
 - ⭐ [CareerConnect](https://github.com/kamrul397/careerConnect) — Multi-Role Job Search & Recruitment Portal
 - ⭐ [ClubSphere](https://github.com/kamrul397/ClubSphere_Frontend) — Club Discovery & Event Ticketing Platform
