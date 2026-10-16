@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I'm Kamrul Islam</h1>
 
 <h3 align="center">
-Junior Full-Stack Developer | Next.js 16 • React 19 • TypeScript • PostgreSQL • Prisma • Docker • Node.js • MongoDB
+Junior Full-Stack Developer | Next.js 16 • React 19 • TypeScript • WebRTC • PostgreSQL • Prisma • Docker • Node.js
 </h3>
 
 <p align="center">
@@ -18,7 +18,7 @@ Junior Full-Stack Developer | Next.js 16 • React 19 • TypeScript • Postgre
 </p>
 
 <p align="center">
-I engineer responsive, accessible, and high-performance web applications using Next.js 16, React 19, TypeScript, PostgreSQL, Prisma ORM, Docker, Node.js, Express.js, and MongoDB. Passionate about continuous learning, clean architecture, mathematical fractional indexing, secure authentication, and building seamless user experiences.
+I engineer responsive, accessible, and high-performance web applications using Next.js 16, React 19, TypeScript, WebRTC, WebSockets, PostgreSQL, Prisma ORM, Docker, and Node.js. Passionate about continuous learning, real-time media streaming, clean architecture, secure authentication, and building seamless user experiences.
 </p>
 
 ---
@@ -37,9 +37,8 @@ I engineer responsive, accessible, and high-performance web applications using N
 - 💻 **Junior Full-Stack Developer** & Web Developer Intern at **GOBAADI**
 - 📚 Passionate about **continuous learning** and rapidly adapting to modern engineering tools
 - 🧾 Built **SmartReceipt AI** – a full-stack expense tracking platform with Next.js 16, Google Gemini Vision OCR, split-screen reconciliation, document guardrails, and PostgreSQL via Prisma ORM
-- 📋 Built **Mini Kanban Board** – a collaborative workflow platform featuring PostgreSQL, Prisma ORM, continuous mathematical fractional indexing for 0ms drag-and-drop reordering, 3-tier RBAC, and mobile accordion stacks
+- 🎓 Built **LiveClass** – a zero-dependency virtual classroom with pure native WebRTC (P2P mesh for 4–5 participants), WebSockets, screen sharing with `replaceTrack`, and a shared HTML5 canvas whiteboard
 - 💼 Built **CareerConnect** – a full-stack job recruitment portal with Next.js 16, faceted search via MongoDB aggregation pipelines, and Cloudinary PDF processing
-- 🌟 Built **ClubSphere** – a university extracurricular hub featuring Stripe payments, club subscriptions, and dynamic event management
 - 🛠️ Deep experience modeling relational schemas with **PostgreSQL & Prisma ORM** alongside NoSQL **MongoDB Atlas & Mongoose**
 - 🐳 Proficient in **Docker & Docker Compose** for containerizing full-stack multi-service applications
 - ⚡ Skilled in **TanStack Query v5** for optimistic UI updates, background caching, and zero-latency state synchronization
@@ -89,21 +88,19 @@ Full-stack AI-powered expense tracking and receipt auditing platform. Extracts s
 
 ---
 
-## 🚀 Mini Kanban Board – Full-Stack Collaborative Workflow Platform
+## 🚀 LiveClass – Zero-Dependency WebRTC Virtual Classroom & P2P Collaboration
 
-Production-grade collaborative Kanban board and workflow platform. Engineered with normalized PostgreSQL models via Prisma ORM, continuous mathematical fractional indexing for 0ms drag-and-drop task positioning without mass database updates, granular 3-tier Role-Based Access Control (Board Owner, Team Editor, Stakeholder Viewer), and mobile-responsive collapsible accordion stacks. Containerized with Docker and Docker Compose.
+Lightweight, high-performance virtual classroom platform built with pure native WebRTC and WebSockets without third-party SDKs (no Agora or LiveKit). Enables direct peer-to-peer audio and video calling for 4–5 participants with Google STUN, dynamic auto-resizing video grid layout, lobby waiting room with host moderation (remote mute & participant kick), seamless mid-call screen sharing via `replaceTrack`, in-call P2P text chat with "Raise Hand" alerts, synchronized shared HTML5 canvas whiteboard, and real-time connection quality/RTT telemetry.
 
 **Tech Stack**
-- Next.js 16 (App Router) & React 19
-- TypeScript (Strict Mode)
-- PostgreSQL & Prisma ORM
-- Node.js & Express.js
-- TanStack Query (React Query)
-- Docker & Docker Compose
-- Tailwind CSS v4
+- Native WebRTC API (MediaStream & DataChannels)
+- WebSockets (`ws`) & Node.js
+- HTML5 Canvas API (Peer-to-Peer Draw Sync)
+- Vanilla JavaScript (ES6+) & Modern CSS3
+- STUN Server Configuration (NAT Traversal)
 
-🔗 **Live Demo:** https://mini-kanban-board-rho.vercel.app  
-🔗 **Repository:** https://github.com/kamrul397/mini-kanban-board  
+🔗 **Live Demo:** https://liveclass-webrtc.onrender.com/  
+🔗 **Repository:** https://github.com/kamrul397/liveclass-webrtc  
 
 ---
 
@@ -126,24 +123,6 @@ Full-stack job search and recruitment portal connecting candidates, recruiters, 
 
 ---
 
-## 🚀 ClubSphere – Full-Stack Extracurricular & Event Platform
-
-Dynamic university community hub facilitating student club exploration, club membership management, and secure event ticketing with integrated Stripe checkout and webhook fulfillment.
-
-**Tech Stack**
-- React 19
-- Node.js & Express.js
-- MongoDB Atlas
-- Stripe API (Checkout & Webhooks)
-- TanStack Query & React Hook Form
-- Firebase Auth & JWT
-- Tailwind CSS
-
-🔗 **Live Demo:** https://clubspere-firebase.web.app  
-🔗 **Repository:** https://github.com/kamrul397/ClubSphere_Frontend  
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
@@ -163,10 +142,9 @@ Dynamic university community hub facilitating student club exploration, club mem
 # 📌 Pinned Repositories
 
 - ⭐ [SmartReceipt AI](https://github.com/kamrul397/smart-receipt-ai) — Multimodal Expense Tracker & Receipt Parser with Gemini Vision, Prisma & PostgreSQL
-- ⭐ [Mini Kanban Board](https://github.com/kamrul397/mini-kanban-board) — Collaborative Kanban Board with PostgreSQL, Prisma ORM & Fractional Indexing
+- ⭐ [LiveClass](https://github.com/kamrul397/liveclass-webrtc) — Zero-Dependency Virtual Classroom with Native WebRTC (4–5 Peers) & WebSockets
 - ⭐ [CareerConnect](https://github.com/kamrul397/careerConnect) — Multi-Role Job Search & Recruitment Portal
-- ⭐ [ClubSphere](https://github.com/kamrul397/ClubSphere_Frontend) — Club Discovery & Event Ticketing Platform
-- ⭐ [Portfolio](https://github.com/kamrul397/kamrul-portfolio) — Interactive 3D Developer Portfolio
+- ⭐ [Portfolio](https://github.com/kamrul397/my_portfolio) — Interactive Full-Stack Developer Portfolio
 
 ---
 
